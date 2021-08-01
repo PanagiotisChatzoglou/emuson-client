@@ -1,0 +1,23 @@
+.square {
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+}
+.jumbotron {
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.title-2 {
+  background-image: linear-gradient(to right, #cedef0, #000);
+}
