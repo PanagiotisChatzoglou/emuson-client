@@ -14,9 +14,9 @@ const Index = ({ courses }) => {
 
   return (
     <>
-      <section className="section-1">
+      {/* <section className="section-1">
         {/* <img src={"home.jpg"} alt="home" /> */}
-        <div className="color"></div>
+      {/* <div className="color"></div>
         <div className="right-side">
           <div className="right-container above">
             <h1 className="emuson-title" style={{ color: "white" }}>
@@ -36,9 +36,8 @@ const Index = ({ courses }) => {
             </p>
           </div>
           <div className="color-2"></div>
-        </div>
-      </section>
-
+        </div> */}
+      {/* </section> */}
       <h2 className=" text-center title-2  jumbotron square ">
         Check Out Our Newest Courses
       </h2>
